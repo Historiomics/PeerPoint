@@ -1,5 +1,5 @@
-Mechanisms: Currency, Exchange, Payments, etc.
-==============================================
+Currency
+========
 Second tier services & apps
 * social networking: socialswarm.net: list of distributed projects, Wikipedia: distributed social network apps,
 * crowdsourcing: content collaboration & management  (semantic wiki engine, wiki farm platform, Etherpad, Google Docs,, LibreOffice, or better)
