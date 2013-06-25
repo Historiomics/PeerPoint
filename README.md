@@ -9,12 +9,13 @@ This specification overlaps with many existing p2p infrastructure and social net
 
 ##Table of Contents:
 
-* [CURRENCY] (https://github.com/antiface/PeerPoint/tree/master/CURRENCY)
+* [PeerPoint Apps] (https://github.com/antiface/PeerPoint/tree/master/PeerPoint-Apps)
 * [IDE] (https://github.com/antiface/PeerPoint/tree/master/IDE)
 * [IDENTITY] (https://github.com/antiface/PeerPoint/tree/master/IDENTITY)
 * [NETWORKING] (https://github.com/antiface/PeerPoint/tree/master/NETWORKING)
-* [SEARCH] (https://github.com/antiface/PeerPoint/tree/master/SEARCH)
 * [SECURITY] (https://github.com/antiface/PeerPoint/tree/master/SECURITY)
 * [SEMANTICS] (https://github.com/antiface/PeerPoint/tree/master/SEMANTICS)
 * [TRUST] (https://github.com/antiface/PeerPoint/tree/master/TRUST)
 * [WORKFLOW] (https://github.com/antiface/PeerPoint/tree/master/WORKFLOW)
+* [SEARCH] (https://github.com/antiface/PeerPoint/tree/master/SEARCH)
+* [CURRENCY] (https://github.com/antiface/PeerPoint/tree/master/CURRENCY)
