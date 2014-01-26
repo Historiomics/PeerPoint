@@ -10,3 +10,4 @@ Second tier services & apps
 * accounting & financial reporting
 * voting (LiquidFeedback or better)
 * universal search across all PeerPoint data/content and world wide web content (YaCy or better)
+* Distributed Applications; Mastercoin et al
